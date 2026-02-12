@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dwc07109/dwc07109&count_bg=%2379C83D&title_bg=%23555555&title=visitors&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OhChangEun/OhChangEun&count_bg=%2379C83D&title_bg=%23555555&title=visitors&edge_flat=false"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 **자동차 산업의 디지털 전환**을 경험하고  
 **사용자 중심 프론트엔드 개발**로 확장한 개발자입니다.  
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧩 Algorithm Problem Solving
+## Algorithm Problem Solving
 
 <p align="center">
   <a href="https://solved.ac/dwc07109">
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Tech |
 |---------|------|
@@ -60,7 +60,7 @@
 
 ---
 
-## 📌 Goals
+## Goals
 
 - 자동차 도메인 기반의 웹 서비스 개발 역량 강화  
 - React/Next.js 기반 대규모 서비스 성능 최적화  
@@ -68,8 +68,8 @@
 
 ---
 
-## 🌱 3D Contributions
+## 3D Contributions
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ✨ 감사합니다! 방문해주셔서 좋은 하루 되세요 :)
