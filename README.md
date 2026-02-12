@@ -2,13 +2,10 @@
 <!-- 🌟 Welcome Section -->
 <!-- ======================= -->
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
-
 # 안녕하세요! 개발자 오창은입니다
-
 > 자동차 산업의 디지털 전환 경험을 바탕으로 사용자 중심의 웹 서비스를 만드는 개발자 **오창은**이라고 합니다.
 
-<br><br>
+<br>
 
 ## Activity
 
@@ -36,6 +33,6 @@ GIT Internship – Automotive Communication Desktop Development *(2024.07 ~ 2024
 
 <br><br>
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="500"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="700"/>
 
 ✨ 감사합니다! 방문해주셔서 좋은 하루 되세요 :)
