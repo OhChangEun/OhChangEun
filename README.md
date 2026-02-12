@@ -4,25 +4,25 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 
-# 안녕하세요! 개발자 오창은입니다 👋
+# 안녕하세요! 개발자 오창은입니다
 
-자동차 산업의 디지털 전환 경험을 바탕으로  
-사용자 중심의 웹 서비스를 만드는 풀스택 개발자입니다.
+> 자동차 산업의 디지털 전환 경험을 바탕으로 사용자 중심의 웹 서비스를 만드는 개발자 **오창은**이라고 합니다.
 
+<br><br>
 
 ## Activity
 
 Hyundai AutoEver Mobility School – Fullstack Track  *(2025.04 ~ 2025.11)*
 <br>
 GIT Internship – Automotive Communication Desktop Development *(2024.07 ~ 2024.12)*
-
+<br><br>
 
 ## Algorithm Problem Solving
 
 <a href="https://solved.ac/dwc07109">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dwc07109" />
 </a>
-
+<br><br>
 
 ## Tech Stack
 
@@ -36,6 +36,6 @@ GIT Internship – Automotive Communication Desktop Development *(2024.07 ~ 2024
 
 <br><br>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="500"/>
 
 ✨ 감사합니다! 방문해주셔서 좋은 하루 되세요 :)
