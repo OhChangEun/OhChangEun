@@ -13,7 +13,7 @@
   사용자 중심의 웹 서비스를 만드는 풀스택 개발자입니다.
 </p>
 
-![visitors](https://visitorbadge.io/api/visitors?path=OhChangEun&label=visitors&countColor=%23000000)
+![Visitor Count](https://profile-counter.glitch.me/OhChangEun/count.svg)
 
 ## About Me
 
