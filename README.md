@@ -18,7 +18,7 @@
 ---
 
 ## Algorithm Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID)](https://solved.ac/dwc07109)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dwc07109)](https://solved.ac/dwc07109)
 
 ---
 
@@ -38,10 +38,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact" height="150"/>
 </p>
-
----
-
-## 🌱 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_ID&theme=github-light)
 
 ---
