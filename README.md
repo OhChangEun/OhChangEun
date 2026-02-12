@@ -13,9 +13,7 @@
   사용자 중심의 웹 서비스를 만드는 풀스택 개발자입니다.
 </p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OhChangEun&title=visitors&icon=github"/>
-</p>
+![visitors](https://visitorbadge.io/api/visitors?path=OhChangEun&label=visitors&countColor=%23000000)
 
 ## About Me
 
