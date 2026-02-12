@@ -14,10 +14,8 @@
 </p>
 
 <a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2OhChangEun%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits%21&edge_flat=true"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhChangEun%2FOhChangEun&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits%21&edge_flat=true"/>
 </a>
-
----
 
 ## About Me
 
@@ -35,8 +33,6 @@
 현재는 **프론트엔드-백엔드를 아우르는 풀스택 개발자**로서  
 안정적이고 확장 가능한 서비스를 만드는 것을 목표로 하고 있습니다.
 
----
-
 ## Algorithm Problem Solving
 
 <p align="center">
@@ -44,8 +40,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dwc07109" />
   </a>
 </p>
-
----
 
 ## Tech Stack
 
@@ -58,15 +52,11 @@
 | **State Management** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black) |
 | **Cloud / Hosting** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
 
----
-
 ## Goals
 
 - 자동차 도메인 기반의 웹 서비스 개발 역량 강화  
 - React/Next.js 기반 대규모 서비스 성능 최적화  
 - 프론트엔드와 백엔드를 연결하는 풀스택 엔지니어 성장  
-
----
 
 ## 3D Contributions
 
