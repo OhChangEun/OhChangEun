@@ -3,8 +3,9 @@
 <!-- ======================= -->
 
 <br><br>
+<!-- -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=30&pause=5000&color=1A1A1A&width=600&height=60&vCenter=true&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%98%A4%EC%B0%BD%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&pause=1000&color=1A1A1A&height=40&vCenter=true&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%98%A4%EC%B0%BD%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
 </a>
 
 > 자동차 산업의 디지털 전환 경험을 바탕으로 사용자 중심의 웹 서비스를 만드는 개발자 **오창은**이라고 합니다.
