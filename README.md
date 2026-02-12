@@ -1,10 +1,4 @@
 # 안녕하세요! 개발자 오창은입니다
-### Software Engineer
-
----
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwc07109&count_bg=%2379C83D&title_bg=%23555555&title=visitors&edge_flat=false"/>
-</p>
 
 ## About Me
 **자동차 산업의 디지털 전환**을 경험하고 **사용자 중심 프론트엔드 개발**로 확장한 개발자입니다.  
@@ -35,5 +29,10 @@
 | **State Management** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white) |
 | **Build Tools** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
 | **DevOps** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Cloud / Hosting** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+---
 
 ---
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhChangEun&count_bg=%2379C83D&title_bg=%23555555&title=visitors&edge_flat=false"/>
+</p>
