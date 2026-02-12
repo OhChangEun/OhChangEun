@@ -13,9 +13,9 @@
   사용자 중심의 웹 서비스를 만드는 풀스택 개발자입니다.
 </p>
 
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhChangEun%2FOhChangEun&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits%21&edge_flat=true"/>
-</a>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OhChangEun&title=visitors&icon=github"/>
+</p>
 
 ## About Me
 
