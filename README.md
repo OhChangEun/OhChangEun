@@ -14,7 +14,7 @@
 
 <h2>Activities</h2>
 
-<sub>26.05 ~ Present</sub>
+<sub>26.05 ~ 26.12</sub>
 **AI/SW Maestro**
 
 <sub>25.04 ~ 25.11</sub>
