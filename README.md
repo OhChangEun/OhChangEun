@@ -15,13 +15,14 @@
 <h2>Activities</h2>
 
 - **AI/SW Maestro**
-  - 2026.05 ~ Present
+<sub>2026.05 ~ Present</sub>
 
 - **Hyundai AutoEver SW Mobility School 2nd - Fullstack Track**
-  - 2025.04 ~ 2025.11
+<sub>2025.04 ~ 2025.11</sub>
 
 - **GIT Internship - Automotive Desktop Development**
-  - 2024.07 ~ 2024.12
+<sub>2024.07 ~ 2024.12</sub>
+
 <br><br>
 
 ## Algorithm Problem Solving
