@@ -13,6 +13,7 @@
 <br><br>
 
 <h2>Activities</h2>
+
 - **AI/SW Maestro**
   - 2026.05 ~ Present
 
