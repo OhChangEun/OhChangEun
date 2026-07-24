@@ -1,19 +1,20 @@
 class Solution {
     public long solution(int k, int d) {
         long answer = 0;
-    
-        long total = 1L * d * d; 
-        for (int a = 0; a <= d; a += k) {
-            double bMax = Math.sqrt(total - 1L * a * a); 
-            
-            int b = (int)bMax;
-            answer = answer + (b / k) + 1;
+     
+        int n = d / k;
+        long res = n * n;
+        
+        for (int a = 0; a <= n; a++) {
+            for (int b = 0; b <= n; b++) {
+                long num = a * a + b * b; 
+                
+                if (num <= res) {
+                    answer++; 
+                }
+            }
         }
         
         return answer;
-    }
-    
-    public void print(Object o) {
-        System.out.println(o);
     }
 }
