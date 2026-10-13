@@ -17,8 +17,8 @@ class Solution {
         for (int num: diff) {
             print(num + " ");
         }
-        */
-       	
+       */	
+        
         int left = 0;
         int right = 1_000_000_000;
         int answer = 0;
@@ -41,7 +41,28 @@ class Solution {
         System.out.print(o);
     } 
     
-    
+    public boolean isValid(int mid, int[] diff, int n) {
+       	int sum = 0; 
+        int remove = 0;
+       
+        for (int gap: diff) {
+            sum += gap;
+            
+            if (sum < mid) {
+               	remove++; 
+            } else {
+                sum = 0;
+                continue;
+            }
+            
+            if (remove > n) return false;
+        }
+        
+        
+        return true;
+    }
+   
+    /*
     public boolean isValid(int mid, int[] diff, int n) {
        	int d = diff.length; 
      
@@ -61,7 +82,7 @@ class Solution {
         
         return true;
     }
-    
+   	*/ 
     // 0 => 25
     // 2, 14, 11, 21, 17 
    	// 21, 17 제거 
