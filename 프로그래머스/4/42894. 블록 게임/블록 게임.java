@@ -1,23 +1,23 @@
 import java.util.*;
 
 class Solution {
-    class Point {
-        int y, x;
+//     class Point {
+//         int y, x;
         
-        public Point(int y, int x) {
-            this.y = y;
-            this.x = x;
-        }
-    }
-    class Block {
-        int shape; 
-        Point p; 
+//         public Point(int y, int x) {
+//             this.y = y;
+//             this.x = x;
+//         }
+//     }
+//     class Block {
+//         int shape; 
+//         Point p; 
         
-        public Block(int shape, Point p) {
-            this.shape = shape;
-            this.p = p;
-        }
-    }
+//         public Block(int shape, Point p) {
+//             this.shape = shape;
+//             this.p = p;
+//         }
+//     }
     public int getShape(int r, int c) {
         if (r + 1 < n && c + 2 < n) {
             int n = board[r + 1][c];
@@ -59,14 +59,12 @@ class Solution {
         this.board = board;
         this.n = board.length;
         
-        List<Block> list = new ArrayList<>();
+        //List<Block> list = new ArrayList<>();
             
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 int shape = getShape(i, j);
                 if (shape == -1) continue; 
-                
-                list.add(new Block(shape, new Point(i, j)));
             }
         }
        
